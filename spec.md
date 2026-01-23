@@ -5,6 +5,7 @@ A simple "Hello World" webpage with animated background and styling.
 
 ## Features
 - **Heading**: "Hello World!" with gradient text effect
+- **Author Name**: "Bella Gerloff" displayed beneath the heading
 - **Quote**: Inspirational quote from Eleanor Roosevelt
 - **Animated Background**: Purple gradient that smoothly shifts and waves
 - **Floating Globe**: Animated globe emoji (🌍) that floats behind the content
@@ -31,6 +32,7 @@ A simple "Hello World" webpage with animated background and styling.
 - Background: Purple gradient (#667eea to #764ba2)
 - Container: White (#ffffff)
 - Heading: Gradient text
+- Name: Gray (#666) with light font weight
 - Quote text: Dark gray (#555)
 - Author text: Medium gray (#888)
 
